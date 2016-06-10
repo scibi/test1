@@ -2,3 +2,5 @@
 
 drugi commit
 
+pierwszy commit w branchu 2
+
