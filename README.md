@@ -1,4 +1,4 @@
 # test1
 
-pierwszy commit
+pierwszy commit w branch1
 
